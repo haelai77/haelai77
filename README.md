@@ -15,6 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haelai77&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haelai77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=haelai77&color=green&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

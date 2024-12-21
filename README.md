@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an intern for the University of Bristol High Performance Computing Group 🔭<br>🌱 Soon to be a UCL student on their MSc Data Science and Machine Learning course🌱<br>⛰️ I climb rocks and cook challenging dishes 🍲
+🔭 I’m currently a student at UCL's MSc data science and machine learning 🔭<br>🌱 Soon to be a software and machine learning engineer at Alloyed🌱<br>⛰️ I climb rocks and cook challenging dishes 🍲
 
 
 # 💻 Tech Stack:
